@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: quartz
+  profiles:
+    active: dev
+
+server:
+  port: 80
+
+
+
+
